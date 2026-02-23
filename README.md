@@ -38,7 +38,7 @@ The core of this system is a deep learning model that has been specifically **fi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/AI-Fitness-Project.git
+   git clone https://github.com/AHAD2911/-AI-Fitness-Exercise-Analysis-System.git
    cd AI-Fitness-Project
    ```
 
