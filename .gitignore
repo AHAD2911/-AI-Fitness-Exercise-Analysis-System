@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+uploaded_videos/
+*.h5
+.env
+.ipynb_checkpoints/
+*.pyc
+.vscode/
+.idea/
+*.mp4
+*.avi
+*.mov
