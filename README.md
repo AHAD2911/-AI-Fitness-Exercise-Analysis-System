@@ -69,4 +69,4 @@ The core of this system is a deep learning model that has been specifically **fi
 - Mobile application support.
 
 ---
-Built with ❤️ for a healthier future.
+
